@@ -4,4 +4,4 @@
 
 ## Report
 
-![](png.png)
+[![](png.png)](https://raw.githubusercontent.com/4h0r/psu/refs/heads/main/png.png)
